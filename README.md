@@ -1,4 +1,4 @@
-# Njin
+# ImGui-SFML Template
 #### Dependencies
 - SFML 2.6.2
 
