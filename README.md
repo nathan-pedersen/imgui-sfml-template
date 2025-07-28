@@ -4,8 +4,8 @@
 
 #### Usage
 - Create a new repository from template.
-- git clone --recurse-submodules <your repo>
-- cd <your repo>
+- git clone --recurse-submodules \<your repo\>
+- cd \<your repo\>
 - mkdir build
 - cd build
 - cmake ..
