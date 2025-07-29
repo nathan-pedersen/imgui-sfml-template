@@ -6,7 +6,7 @@
 #include "imgui.h"
 
 constexpr unsigned int WIDTH = 800;
-constexpr unsinged int HEIGHT = 800;
+constexpr unsigned int HEIGHT = 800;
 
 int main(int argc, char **args)
 {
