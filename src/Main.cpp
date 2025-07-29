@@ -5,8 +5,8 @@
 #include "imgui-SFML.h"
 #include "imgui.h"
 
-constexpr f32 WIDTH = 800;
-constexpr f32 HEIGHT = 800;
+constexpr unsigned int WIDTH = 800;
+constexpr unsinged int HEIGHT = 800;
 
 int main(int argc, char **args)
 {
