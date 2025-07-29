@@ -2,7 +2,7 @@
 #### Dependencies
 - SFML 2.6.2
 
-#### Usage
+#### Usage Linux (Maybe Mac too)
 - Create a new repository from template.
 - git clone --recurse-submodules \<your repo\>
 - cd \<your repo\>
@@ -10,4 +10,10 @@
 - cd build
 - cmake ..
 - make
-- run binary (./Main, ./Main.exe, etc)
+- run binary (./Main)
+
+#### Usage Windows (Maybe Mac too)
+- Create a new repository from template.
+- git clone --recurse-submodules \<your repo\>
+- cd \<your repo\>
+- open directory in Visual Studio
