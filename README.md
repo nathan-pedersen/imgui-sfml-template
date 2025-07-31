@@ -1,6 +1,6 @@
 # ImGui-SFML Template
 #### Dependencies
-- SFML 2.6.2
+- SFML 2.6.2 https://www.sfml-dev.org/download/sfml/2.6.2/
 
 #### Usage Linux (Maybe Mac too)
 - Create a new repository from template.
